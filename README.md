@@ -1,0 +1,2 @@
+# LousScorpBot
+ScorpBot
