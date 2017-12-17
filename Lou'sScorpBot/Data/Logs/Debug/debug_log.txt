@@ -1,0 +1,258 @@
+
+--==>> 6:42:24 PM Friday, December 1, 2017 => *********** BEGIN BOT LOAD ***********
+
+--==>> 6:47:40 PM Friday, December 1, 2017 => [BEAM-BOTAUTH] path: https://www.scorpbot.com/oauth/mixer/oauth.php?action=auth&code=I7xjgmfS9hj4ex1z%2FNI4PaENmFWwkECj1kuYF0eIXb8%3D
+
+--==>> 6:47:40 PM Friday, December 1, 2017 => [BEAM-BOTAUTH] content: {"access_token":"DLO5WQUpWUctEjEyOf8eHuTCK6qlslgcAyqIY67kFX1Goo3X6Z0e3ddU6HWNkpuS","token_type":"Bearer","expires_in":21592,"refresh_token":"1Dlvo2BkDmGm5xnkigQ7YHNNuZH0RkH9AHEtBSZvc0aATcFJt9mr53pe5OpJSrYC"}
+
+--==>> 6:48:02 PM Friday, December 1, 2017 => [BEAM-STREAMERAUTH] Attempt
+
+--==>> 6:50:33 PM Friday, December 1, 2017 => [SPFY-DBC] Missing spotify auth token
+
+--==>> 9:41:52 PM Saturday, December 9, 2017 => *********** BEGIN BOT LOAD ***********
+
+--==>> 9:44:13 PM Saturday, December 9, 2017 => [SPFY-DBC] Missing spotify auth token
+
+--==>> 10:48:02 PM Saturday, December 9, 2017 => TWITCH SET GAME name/title ERROR: System.Net.WebException: The remote server returned an error: (500) Internal Server Error.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.TwitchAPI.Run() && System.Collections.ListDictionaryInternal
+
+--==>> 12:54:53 AM Sunday, December 10, 2017 => [BEAM-BOTAUTH] path: https://www.scorpbot.com/oauth/mixer/oauth.php?action=auth&code=NjiWCZRbfycubMoYrAwEahicJpV5KeqWx3AEhr%2BVwPk%3D
+
+--==>> 12:54:53 AM Sunday, December 10, 2017 => [BEAM-BOTAUTH] content: {"access_token":"Uy2AaQQZIzwPjheoWPHGlkxt8wNF47Ze1aHhVAeCkL1hD1fF0NcwXQF2ROWjPe5R","token_type":"Bearer","expires_in":21587,"refresh_token":"v4SXCeorvs2nTZzlWxFpSDWyv7QYpcRjN85HWx6h3pNnObFXFHcVIW77Cr5h9cJo"}
+
+--==>> 12:57:49 AM Sunday, December 10, 2017 => [BEAM-BOTAUTH] path: https://www.scorpbot.com/oauth/mixer/oauth.php?action=auth&code=qJfs%2BlOS21CavM8xcttJDU5wwAmCw3Vz%2FGPmP4k01YI%3D
+
+--==>> 12:57:49 AM Sunday, December 10, 2017 => [BEAM-BOTAUTH] content: {"access_token":"o70Lr4qLEvSJKkwPvgIwV6ELt1yPhIuSSzB5LQaDOx6J5E0NWgOvNEOL8MMIIqHu","token_type":"Bearer","expires_in":21590,"refresh_token":"pWRk2kcE2OyfC7MfNFfr19CnODc2Kp8cT1gRr0s2dwvO80m877mmoispsgGJReOQ"}
+
+--==>> 1:03:01 AM Sunday, December 10, 2017 => [BEAM-STREAMERAUTH] Attempt
+
+--==>> 2:00:42 AM Sunday, December 17, 2017 => *********** BEGIN BOT LOAD ***********
+
+--==>> 2:01:23 AM Sunday, December 17, 2017 => *********** BEGIN BOT LOAD ***********
+
+--==>> 2:01:28 AM Sunday, December 17, 2017 => *Primary Mixer Error*: System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.Beam.Run()
+
+--==>> 2:01:28 AM Sunday, December 17, 2017 => *LASTDATA*: 1a:{"featured":false,"id":18690626,"userId":24387545,"token":"Mobb-Bot","online":false,"featureLevel":0,"partnered":false,"transcodingProfileId":null,"suspended":false,"name":"nSayneOG's Channel","audience":"teen","viewersTotal":0,"viewersCurrent":0,"numFollowers":0,"description":null,"typeId":null,"interactive":false,"interactiveGameId":null,"ftl":0,"hasVod":false,"languageId":null,"coverId":null,"thumbnailId":null,"badgeId":null,"bannerUrl":null,"hosteeId":null,"hasTranscodes":true,"vodsEnabled":false,"costreamId":null,"createdAt":"2017-12-10T05:45:54.000Z","updatedAt":"2017-12-10T05:46:05.000Z","deletedAt":null,"thumbnail":null,"cover":null,"badge":null,"type":null,"preferences":{"costream:allow":"all","sharetext":"I'm watching %USER%'s awesome stream. Come check it out here: %URL%","channel:bannedwords":[],"channel:links:clickable":true,"channel:links:allowed":true,"channel:slowchat":500,"channel:notify:follow":false,"channel:notify:followmessage":"%USER% is now following.","channel:notify:hostedBy":"%USER% is now hosting you!","channel:notify:hosting":"We're now hosting %USER%!","channel:notify:subscribemessage":"%USER% subscribed to the channel!","channel:notify:subscribe":true,"channel:partner:submail":"Welcome to my channel, thanks for subscribing.","channel:player:muteOwn":true,"channel:tweet:enabled":false,"channel:tweet:body":"I just went live on Mixer! %URL%","channel:users:levelRestrict":0,"channel:catbot:level":0,"channel:offline:autoplayVod":true,"channel:chat:hostswitch":true},"user":{"level":1,"social":{"verified":["twitter"],"twitter":"https://twitter.com/nSayneOG"},"id":24387545,"username":"Mobb-Bot","verified":true,"experience":0,"sparks":500,"avatarUrl":"https://uploads.mixer.com/avatar/1ri49zdi-24387545.jpg","bio":null,"primaryTeam":null,"createdAt":"2017-12-10T05:45:54.000Z","updatedAt":"2017-12-10T05:53:36.000Z","deletedAt":null,"groups":[{"id":1,"name":"User"}]}}
+
+--==>> 2:09:35 AM Sunday, December 17, 2017 => [BLA] Starting authentication check thread. AuthType=0
+
+--==>> 2:09:45 AM Sunday, December 17, 2017 => [BDBC] Opening Mixer Bot Authenticator in default browser...
+
+--==>> 2:09:45 AM Sunday, December 17, 2017 => [BLA] Starting authentication check thread. AuthType=2
+
+--==>> 2:10:05 AM Sunday, December 17, 2017 => [BDBC] Opening Mixer Bot Authenticator in default browser...
+
+--==>> 2:10:05 AM Sunday, December 17, 2017 => [BLA] Starting authentication check thread. AuthType=2
+
+--==>> 2:10:12 AM Sunday, December 17, 2017 => [BEAM-AUTH] Starting Mixer bot authentication function...
+
+--==>> 2:10:12 AM Sunday, December 17, 2017 => [BEAM-RUN-ERROR] Mobb_Bot>> Bot access token expired, have to refresh
+
+--==>> 2:11:28 AM Sunday, December 17, 2017 => [BDBC] Opening Mixer Streamer Authenticator in default browser...
+
+--==>> 2:11:28 AM Sunday, December 17, 2017 => [BLA] Starting authentication check thread. AuthType=3
+
+--==>> 2:11:34 AM Sunday, December 17, 2017 => [BEAM-STREAMERAUTH] Attempt
+
+--==>> 2:11:35 AM Sunday, December 17, 2017 => [BEAM-STREAMERAUTH] Success
+
+--==>> 2:11:35 AM Sunday, December 17, 2017 => [BEAM-AUTH] Finished streamer authentication.
+
+--==>> 2:17:53 AM Sunday, December 17, 2017 => [BDBC] Opening Mixer Bot Authenticator in default browser...
+
+--==>> 2:17:53 AM Sunday, December 17, 2017 => [BLA] Starting authentication check thread. AuthType=2
+
+--==>> 2:18:00 AM Sunday, December 17, 2017 => [BEAM-AUTH] Starting Mixer bot authentication function...
+
+--==>> 2:18:00 AM Sunday, December 17, 2017 => [BEAM-AUTH] No tokens so try initial auth with token
+
+--==>> 2:18:00 AM Sunday, December 17, 2017 => [BEAM-AUTH] Got auth info.
+
+--==>> 2:18:01 AM Sunday, December 17, 2017 => [BEAM-AUTH] Finished bot authentication.
+
+--==>> 2:18:10 AM Sunday, December 17, 2017 => [BEAM-AUTH] Starting Mixer bot authentication function...
+
+--==>> 2:18:10 AM Sunday, December 17, 2017 => [BEAM-AUTH] Finished bot authentication.
+
+--==>> 2:18:10 AM Sunday, December 17, 2017 => [BEAM-STREAMERAUTH] Attempt
+
+--==>> 2:18:10 AM Sunday, December 17, 2017 => [BEAM-STREAMERAUTH] Success
+
+--==>> 2:18:10 AM Sunday, December 17, 2017 => [BEAM-AUTH] Finished streamer authentication.
+
+--==>> 2:18:11 AM Sunday, December 17, 2017 => [BEAM-USERS] (path)=> https://mixer.com/api/v1/chats/17226740/users?limit=100&page=0
+
+--==>> 2:18:11 AM Sunday, December 17, 2017 => [BEAM-USERS] (page 0, count 3)=> [{"userRoles":["Mod","User","ChannelEditor"],"userId":8320,"userName":"nSayneTV","user":{"level":73,"experience":29696}},{"userRoles":["Owner","User"],"userId":22753616,"userName":"Loucifer","user":{"level":77,"experience":38516}},{"userRoles":["Mod","User"],"userId":22777946,"userName":"Mobb_Bot","user":{"level":2,"experience":20}}]
+
+--==>> 2:18:12 AM Sunday, December 17, 2017 => [BEAM-USERS-HEADERS] link: </api/v1/chats/17226740/users?limit=100&page=0>; rel="first",</api/v1/chats/17226740/users?limit=100&page=0>; rel="next",</api/v1/chats/17226740/users?limit=100&page=0>; rel="prev",</api/v1/chats/17226740/users?limit=100&page=0>; rel="last"
+x-total-count: 3
+X-Rate-Limit: 1000
+X-RateLimit-Remaining: 994
+X-RateLimit-Reset: 1513495150988
+X-CDN-Host: app28.dal09.mixer.com
+Fastly-Debug-Digest: 217d1bc67e509a8e9c9d04e4cb9927aaa88ef13b2f063b8995b1f0d66b9b16b9
+Accept-Ranges: bytes
+Content-Length: 2
+Cache-Control: max-age=10, must-revalidate, public, stale-if-error=86400, stale-while-revalidate=50
+Content-Type: application/json; charset=utf-8
+Date: Sun, 17 Dec 2017 07:18:10 GMT
+Server: nginx/1.12.2
+Via: 1.1 varnish,1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-dfw18644-DFW, cache-dca17751-DCA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1513495091.689894,VS0,VE48
+Vary: accept-encoding, Accept-Encoding
+X-CSRF-Token: 5be5e9ab63066a13e811aca1ba47ba1b79650350
+Set-Cookie: __bcsrf=5be5e9ab63066a13e811aca1ba47ba1b79650350; HttpOnly; secure; path=/; Expires=Tue, 16 Jan 2018 07:18:10 GMT;
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: x-total-count, x-rate-limit, x-ratelimit-remaining, x-ratelimit-reset, x-warning, x-deprecated, x-deprecated-date, link, x-cache, x-cache-hits, content-length, content-type, content-range, range
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE, PATCH, OPTIONS
+Access-Control-Allow-Headers: content-length, content-type, authorization, x-xbl-authorization
+
+
+
+--==>> 2:18:12 AM Sunday, December 17, 2017 => [BEAM-USERS] (path)=> https://mixer.com/api/v1/chats/17226740/users?limit=100&page=1
+
+--==>> 2:18:12 AM Sunday, December 17, 2017 => [BEAM-USERS] (page 1, count 0)=> []
+
+--==>> 2:18:12 AM Sunday, December 17, 2017 => [BEAM-CONNECT] Obtaining connection info...
+
+--==>> 2:18:12 AM Sunday, December 17, 2017 => [BEAMCONNECT1]: (server 4) wss://chat7-dal.mixer.com:443
+
+--==>> 2:18:12 AM Sunday, December 17, 2017 => [BEAMCONNECT2]: {"type":"method","method":"auth","arguments":[17226740,22777946,"1JZ6MbRS8Rt3PbCO"],"id":1}
+
+--==>> 2:18:13 AM Sunday, December 17, 2017 => Mixer connected ok
+
+--==>> 3:07:19 AM Sunday, December 17, 2017 => [StreamLabsDonationCheck-ERROR] System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.StreamLabs.GetDonations()
+
+--==>> 3:12:17 AM Sunday, December 17, 2017 => *Command used*: !youtube (by) nSayneTV
+
+--==>> 3:14:24 AM Sunday, December 17, 2017 => *Command used*: !youtube (by) nSayneTV
+
+--==>> 3:17:09 AM Sunday, December 17, 2017 => *Command used*: !uptime (by) nSayneTV
+
+--==>> 3:17:56 AM Sunday, December 17, 2017 => *Command used*: !uptime (by) nSayneTV
+
+--==>> 12:25:39 PM Sunday, December 17, 2017 => [StreamLabsDonationCheck-ERROR] System.Net.WebException: The remote name could not be resolved: 'streamlabs.com'
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.StreamLabs.GetDonations()
+
+--==>> 12:25:46 PM Sunday, December 17, 2017 => [StreamLabsDonationCheck-ERROR] System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.StreamLabs.GetDonations()
+
+--==>> 12:26:09 PM Sunday, December 17, 2017 => [BEAM-CONST] Disconnected (1006) reason: An exception has occurred while receiving a message.
+
+--==>> 12:26:12 PM Sunday, December 17, 2017 => [BEAM-CONST]: Lost connection, reconnecting...
+
+--==>> 12:26:23 PM Sunday, December 17, 2017 => [BEAMCONNECT1]: (server 5) wss://chat9-dal.mixer.com:443
+
+--==>> 12:26:23 PM Sunday, December 17, 2017 => *Beam WS Error*: (msg) An error has occurred while connecting. *&&&* (exception) 
+
+--==>> 12:26:23 PM Sunday, December 17, 2017 => *LASTDATA*: hg3gffs-edata:{"type":"reply","error":null,"id":10}
+
+--==>> 12:26:23 PM Sunday, December 17, 2017 => [BEAMCONNECT1]: (server 6) wss://chat5-dal.mixer.com:443
+
+--==>> 12:26:24 PM Sunday, December 17, 2017 => [BEAMCONNECT2]: {"type":"method","method":"auth","arguments":[17226740,22777946,"1JZ6MbRS8Rt3PbCO"],"id":1}
+
+--==>> 12:30:30 PM Sunday, December 17, 2017 => [BEAM-AUTH] Starting Mixer bot authentication function...
+
+--==>> 12:30:30 PM Sunday, December 17, 2017 => [BEAM-RUN-ERROR] Mobb_Bot>> Bot access token expired, have to refresh
+
+--==>> 12:30:32 PM Sunday, December 17, 2017 => [BEAM-AUTH] Finished bot authentication.
+
+--==>> 12:30:32 PM Sunday, December 17, 2017 => [BEAM-STREAMERAUTH] Attempt
+
+--==>> 12:30:32 PM Sunday, December 17, 2017 => [BEAM-STREAMERAUTH-EXPIRED]
+
+--==>> 12:30:33 PM Sunday, December 17, 2017 => [BEAM-STREAMERAUTH] Success
+
+--==>> 12:30:33 PM Sunday, December 17, 2017 => [BEAM-AUTH] Finished streamer authentication.
+
+--==>> 12:30:33 PM Sunday, December 17, 2017 => [BEAM-USERS] (path)=> https://mixer.com/api/v1/chats/17226740/users?limit=100&page=0
+
+--==>> 12:30:33 PM Sunday, December 17, 2017 => [BEAM-USERS] (page 0, count 6)=> [{"userRoles":["Mod","Pro","User"],"userId":306,"userName":"Hexses","user":{"level":93,"experience":153703}},{"userRoles":["Mod","User"],"userId":5565,"userName":"MsB","user":{"level":79,"experience":45736}},{"userRoles":["Mod","User","ChannelEditor"],"userId":8320,"userName":"nSayneTV","user":{"level":73,"experience":29722}},{"userRoles":["Mod","User"],"userId":8056146,"userName":"JohnCena_rko619","user":{"level":67,"experience":19366}},{"userRoles":["Owner","User"],"userId":22753616,"userName":"Loucifer","user":{"level":77,"experience":38516}},{"userRoles":["Mod","User"],"userId":22777946,"userName":"Mobb_Bot","user":{"level":5,"experience":90}}]
+
+--==>> 12:30:34 PM Sunday, December 17, 2017 => [BEAM-USERS-HEADERS] link: </api/v1/chats/17226740/users?limit=100&page=0>; rel="first",</api/v1/chats/17226740/users?limit=100&page=0>; rel="next",</api/v1/chats/17226740/users?limit=100&page=0>; rel="prev",</api/v1/chats/17226740/users?limit=100&page=0>; rel="last"
+x-total-count: 6
+X-Rate-Limit: 1000
+X-RateLimit-Remaining: 999
+X-RateLimit-Reset: 1513531917263
+X-CDN-Host: app14.dal09.mixer.com
+Fastly-Debug-Digest: 217d1bc67e509a8e9c9d04e4cb9927aaa88ef13b2f063b8995b1f0d66b9b16b9
+Accept-Ranges: bytes
+Content-Length: 2
+Cache-Control: max-age=10, must-revalidate, public, stale-if-error=86400, stale-while-revalidate=50
+Content-Type: application/json; charset=utf-8
+Date: Sun, 17 Dec 2017 17:30:32 GMT
+Server: nginx/1.12.2
+Via: 1.1 varnish,1.1 varnish
+Age: 0
+Connection: keep-alive
+X-Served-By: cache-dfw18627-DFW, cache-dca17726-DCA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1513531832.496638,VS0,VE50
+Vary: accept-encoding, Accept-Encoding
+X-CSRF-Token: 5a5fa942185a172880785203708727bb16ccc602
+Set-Cookie: __bcsrf=5a5fa942185a172880785203708727bb16ccc602; HttpOnly; secure; path=/; Expires=Tue, 16 Jan 2018 17:30:32 GMT;
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: x-total-count, x-rate-limit, x-ratelimit-remaining, x-ratelimit-reset, x-warning, x-deprecated, x-deprecated-date, link, x-cache, x-cache-hits, content-length, content-type, content-range, range
+Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE, PATCH, OPTIONS
+Access-Control-Allow-Headers: content-length, content-type, authorization, x-xbl-authorization
+
+
+
+--==>> 12:30:34 PM Sunday, December 17, 2017 => [BEAM-USERS] (path)=> https://mixer.com/api/v1/chats/17226740/users?limit=100&page=1
+
+--==>> 12:30:34 PM Sunday, December 17, 2017 => [BEAM-USERS] (page 1, count 0)=> []
+
+--==>> 12:30:34 PM Sunday, December 17, 2017 => [BEAM-CONNECT] Obtaining connection info...
+
+--==>> 12:30:34 PM Sunday, December 17, 2017 => [BEAMCONNECT1]: (server 0) wss://chat2-dal.mixer.com:443
+
+--==>> 12:30:34 PM Sunday, December 17, 2017 => [BEAMCONNECT2]: {"type":"method","method":"auth","arguments":[17226740,22777946,"KX1eWpgARLBhHPDR"],"id":1}
+
+--==>> 12:30:35 PM Sunday, December 17, 2017 => Mixer connected ok
+
+--==>> 1:03:59 PM Sunday, December 17, 2017 => [StreamLabsDonationCheck-ERROR] System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.StreamLabs.GetDonations()
+
+--==>> 1:22:44 PM Sunday, December 17, 2017 => [StreamLabsDonationCheck-ERROR] System.Net.WebException: The remote name could not be resolved: 'streamlabs.com'
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.StreamLabs.GetDonations()
+
+--==>> 1:22:58 PM Sunday, December 17, 2017 => [BEAM-CONST] Disconnected (1006) reason: An exception has occurred while receiving a message.
+
+--==>> 1:23:13 PM Sunday, December 17, 2017 => [BEAM-CONST]: Lost connection, reconnecting...
+
+--==>> 1:23:13 PM Sunday, December 17, 2017 => [BEAM-CONST] Disconnected (1015) reason: An exception has occurred while connecting.
+
+--==>> 1:23:29 PM Sunday, December 17, 2017 => [BEAM-CONST]: Lost connection, reconnecting...
+
+--==>> 1:24:15 PM Sunday, December 17, 2017 => [StreamLabsDonationCheck-ERROR] System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.StreamLabs.GetDonations()
+
+--==>> 1:24:16 PM Sunday, December 17, 2017 => [StreamLabsDonationCheck-ERROR] System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at ScorpBot.StreamLabs.GetDonations()
+
+--==>> 1:24:21 PM Sunday, December 17, 2017 => [BEAM-CONST] Disconnected (1006) reason: An exception has occurred while receiving a message.
+
+--==>> 1:24:34 PM Sunday, December 17, 2017 => [BEAM-CONST]: Lost connection, reconnecting...
+
+--==>> 1:24:40 PM Sunday, December 17, 2017 => [BEAMCONNECT1]: (server 1) wss://chat1-dal.mixer.com:443
+
+--==>> 1:24:41 PM Sunday, December 17, 2017 => [BEAMCONNECT2]: {"type":"method","method":"auth","arguments":[17226740,22777946,"KX1eWpgARLBhHPDR"],"id":1}
+
+--==>> 1:24:41 PM Sunday, December 17, 2017 => Mixer connected ok

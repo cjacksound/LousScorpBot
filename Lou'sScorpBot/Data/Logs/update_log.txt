@@ -1,0 +1,10 @@
+
+Log Entry : 2:01:07 AM Sunday, December 17, 2017
+  :[UPDATER-ERROR] Could not delete updates folder during final cleanup. Error: System.IO.IOException: The directory is not empty.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   at System.IO.Directory.Delete(String path)
+   at AutoUpdater.frmAutoUpdater.Completed(Object sender, AsyncCompletedEventArgs e)
+-------------------------------
